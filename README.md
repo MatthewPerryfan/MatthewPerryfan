@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+@BESTLOOKUM
 <html lang="fa">
 <head>
   <meta charset="UTF-8" />
